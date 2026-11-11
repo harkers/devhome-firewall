@@ -1,4 +1,4 @@
-<!-- Managed by harkers/repo-standards at revision efa6bf24. Use .repo-standards.yml overrides instead of editing this header away. -->
+<!-- Managed by harkers/repo-standards at revision dc639067. Use .repo-standards.yml overrides instead of editing this header away. -->
 
 # reviewer-cloud
 
@@ -19,8 +19,8 @@ tracking, the finding contract, the decision contract and the last-turn review. 
   downstream effects of any change you make.
 
 **Capability:** `REVIEW_CLOUD`
-**Default provider:** `ollama-cloud`
-**Default model:** `cloud-gpt-oss`
+**Default provider:** `openrouter`
+**Default model:** `openai/gpt-oss-120b`
 
 ## Purpose
 
